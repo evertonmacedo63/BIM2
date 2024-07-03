@@ -14,5 +14,5 @@ Assim eles completam o trabalho que será a principal avaliação da disciplina 
 
 Para o Bimestre 3 eles devem:
  integrar os artefatos elaborados na disciplina de LLP com V&M utilizando organizadamente este repositório.
- Utilizar o conceito de Issues do GitHub como mensageria. Pprofessor<->Alunos
+ Utilizar o conceito de Issues do GitHub como mensageria. Professor<->Alunos
  os Lideres de squad deverão criar projetos e distribuir tarefas (cards) para os integrantes de suas SQUADS.
